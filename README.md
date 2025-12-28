@@ -12,10 +12,10 @@ This project integrates:
 ## 📸 Application Output
 
 <p align="center">
-  <img src="images/output1.png" width="700">
+  <img src="output1.png" width="700">
 </p>
 <p align="center">
-  <img src="images/output1.png" width="700">
+  <img src="output2.png" width="700">
 </p>
 
 ---
