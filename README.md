@@ -9,6 +9,17 @@ This project integrates:
 
 ---
 
+## 📸 Application Output
+
+<p align="center">
+  <img src="images/output1.png" width="700">
+</p>
+<p align="center">
+  <img src="images/output1.png" width="700">
+</p>
+
+---
+
 ## 🚀 Features
 
 - Predicts income category using real-world census data
