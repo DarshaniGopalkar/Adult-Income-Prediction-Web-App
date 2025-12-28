@@ -1,0 +1,24 @@
+Fill in values for Age, Working Class, Education, etc.
+
+For numeric fields, use values within the hint ranges:
+
+Age: 18 – 90
+
+Capital Gain: 0 – 99999
+
+Capital Loss: 0 – 4356
+
+Hours per Week: 1 – 99
+
+Click “💹 Predict Income”
+
+
+Output
+
+After submitting, you’ll see your result page (result.html) with:
+
+Green card + 💰 emoji if income > 50K
+
+Red card + 📉 emoji if income ≤ 50K
+
+Back button 🔄 to return to the form
